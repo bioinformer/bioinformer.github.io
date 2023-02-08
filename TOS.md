@@ -24,7 +24,8 @@ For the purposes of these Terms of Service:
     • “Third-party Social Media Service” means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
     • “Website” refers to BIOINFORMATICSHARMA, accessible from https://bioinformer.github.io	
     • “You” means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-Acknowledgment
+
+Acknowledgments
 
 These are the Terms of Service governing the use of this Service and the agreement that operates between You and the Company. These Terms of Service set out the rights and obligations of all users regarding the use of the Service.
 
